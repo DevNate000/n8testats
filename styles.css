@@ -1,10 +1,10 @@
 /* Main */
 body {
-background-image: url("images/bluewpr.png");
-background-repeat: no-repeat;
+  background-image: linear-gradient(to right, rgb(0, 36, 197) , rgb(0, 123, 255));
+  background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
-background-color: navy;
+background-color: black;
 }
             
 a {
@@ -76,7 +76,7 @@ text-align: center;
 
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-image: linear-gradient(to right, rgb(46, 46, 46) , rgb(0, 0, 0));
     border-radius: 15px;
     border: 2px solid white;
     min-width: 1760px;
